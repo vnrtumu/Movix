@@ -1,16 +1,16 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import HomeScreen from './src/Screens/HomeScreen'
+import Banner from '../Components/Banner'
 
-const App = () => {
+const HomeScreen = () => {
   return (
     <View>
-      <Text>App</Text>
-      <HomeScreen />
+      <Text>HomeScreen</Text>
+      <Banner />
     </View>
   )
 }
 
-export default App
+export default HomeScreen
 
 const styles = StyleSheet.create({})
