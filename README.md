@@ -1,3 +1,5 @@
+Figma Templete for ref:  https://www.figma.com/file/KnfzxidVFuW0drlsH48pIl/Mova---Movie-Streaming-App-UI-Kit-(Community)?type=design&mode=dev&t=rFBEIoUrjkAPBmlW-1
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
